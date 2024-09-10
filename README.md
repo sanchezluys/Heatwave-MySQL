@@ -19,7 +19,10 @@ Este repositorio te enseñará a:
 
 ## 📂 Estructura del Proyecto
 
-📦 heatwave_mysql ├── 📁 config/ # Configuraciones iniciales ├── 📁 scripts/ # Scripts SQL de ejemplo ├── 📁 docs/ # Documentación del proyecto └── README.md # Este archivo
+📦 heatwave_mysql 
+├── 📁 config/ # Configuraciones iniciales 
+├── 📁 scripts/ # Scripts SQL de ejemplo 
+├── 📁 docs/ # Documentación del proyecto └── README.md # Este archivo
 
 
 ## 🚀 Cómo Empezar
